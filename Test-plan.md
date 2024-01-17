@@ -63,4 +63,13 @@
 - **Expected Result:** The system should provide a feature to remove a team member.
 - **Status:** Feature suggestion. We could implement a feature that simplifies the process of removing a member from a team.
 
+## 8. Test Description: Delete non-empty team
+- **Objective:** To assess the functionality of deleting non-empty team.
+- **Steps:**
+  1. Navigate to the team list.
+  2. Select an non-empty team to delete.
+  3. Attempt to delete the team.
+- **Expected Result:** The system should remove team with member .
+- **Status:** Cannot delete team with member: Error 500.
 ---
+
