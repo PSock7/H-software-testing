@@ -81,4 +81,4 @@
 - **Expected Result:** updated address .
 - **Status:** Failed, When we updated the address complement.
 ---
-Bug tracker will be founded in: https://github.com/PSock7/H-software-testing/issues
+Bug tracker will be found in: https://github.com/PSock7/H-software-testing/issues
