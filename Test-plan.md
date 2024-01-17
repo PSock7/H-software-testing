@@ -71,5 +71,14 @@
   3. Attempt to delete the team.
 - **Expected Result:** The system should remove team with member .
 - **Status:** Cannot delete team with member: Error 500.
----
 
+## 9. Test Description: additional address issue v1.0.4
+- **Objective:** "To check if we can add an address complement."
+- **Steps:**
+  1. Navigate to the list employee.
+  2. Select 'Updated adress'.
+  3. Effort to include a secondary address after the initial employee creation process, where it was not initially added.
+- **Expected Result:** updated address .
+- **Status:** Failed, When we updated the address complement.
+---
+Bug tracker will be founded in: https://github.com/PSock7/H-software-testing/issues
